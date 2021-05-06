@@ -549,7 +549,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2011971119}
-        m_MethodName: q8
+        m_MethodName: q9
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2098,20 +2098,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2592624eb2a694497b6fb81d23de0c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  q1_str: Default
-  q2_str: Default
-  q3_str: Default
-  q4_str: Default
-  q5_str: Default
-  q6_string: Default
-  q7_string: Default
-  q8_string: Default
-  q9_string: Default
-  q10_string: Default
-  q11_string: Default
-  q12_string: Default
-  q13_string: Default
-  q14_string: Default
   BASE_URL: https://docs.google.com/forms/u/0/d/e/1FAIpQLSeR2prtuBM4oTNfr2RFpcdWxwAUjB6ERHODxgxpQjCX3Idu9w/formResponse
 --- !u!1 &2125970632
 GameObject:
