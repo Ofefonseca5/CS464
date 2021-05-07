@@ -1105,7 +1105,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d25ed318ca0740f39b91b65f59965bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeValue: 60
+  timeValue: 45
   timeText: {fileID: 934281284}
   nextScene: 02_AfterExperimentQ
 --- !u!114 &934281284
