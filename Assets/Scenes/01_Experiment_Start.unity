@@ -575,10 +575,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 810b943d00d0b475db410946af8d037c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  q1_string: Saving More Lives
-  q2_string: Yes
-  q3_string: 
-  BASE_URL: https://docs.google.com/forms/u/0/d/e/1FAIpQLSfQkxzUYH2gYRCplYDUAiWWiYob86YWppw1ZCjluYu_AS2ohw/formResponse
 --- !u!1 &277583075
 GameObject:
   m_ObjectHideFlags: 0
@@ -1238,7 +1234,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d25ed318ca0740f39b91b65f59965bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeValue: 90
+  timeValue: 60
   timeText: {fileID: 934281284}
   nextScene: 01_AfterExperimentQ
 --- !u!114 &934281284
@@ -1254,7 +1250,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -2113,6 +2109,7 @@ GameObject:
   - component: {fileID: 2011971113}
   - component: {fileID: 2011971117}
   - component: {fileID: 2011971119}
+  - component: {fileID: 2011971118}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -2218,6 +2215,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dccb5e69475cf04c866b00ec8e7c177, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2011971118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2011971112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d25ed318ca0740f39b91b65f59965bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeValue: 60
+  timeText: {fileID: 934281284}
+  nextScene: 01_AfterExperimentQ
 --- !u!114 &2011971119
 MonoBehaviour:
   m_ObjectHideFlags: 0

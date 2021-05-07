@@ -773,7 +773,7 @@ Camera:
   m_GameObject: {fileID: 716868334}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 2
+  m_ClearFlags: 1
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -855,7 +855,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -7.5000153, y: -0.4999981}
+  m_AnchoredPosition: {x: -7.5000305, y: -0.4999981}
   m_SizeDelta: {x: -35, y: -13}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &774342784
@@ -1248,7 +1248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d25ed318ca0740f39b91b65f59965bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeValue: 90
+  timeValue: 60
   timeText: {fileID: 995479400}
   nextScene: 03_AfterExperiment
 --- !u!114 &995479400
@@ -1264,7 +1264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -2106,8 +2106,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4, y: -147}
-  m_SizeDelta: {x: 322.7, y: 36.3}
+  m_AnchoredPosition: {x: 6.1, y: -147}
+  m_SizeDelta: {x: 593.5, y: 36.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1819145711
 MonoBehaviour:
@@ -2159,9 +2159,9 @@ MonoBehaviour:
     m_Options:
     - m_Text: Default
       m_Image: {fileID: 0}
-    - m_Text: Option 1
+    - m_Text: 'Option 1: decreases life span but will be painless'
       m_Image: {fileID: 0}
-    - m_Text: Option 2
+    - m_Text: 'Option 2: increases life span but will be excruciating'
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:

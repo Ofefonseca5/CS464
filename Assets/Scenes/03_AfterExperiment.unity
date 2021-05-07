@@ -955,7 +955,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: If you were to die, how would you prefer to go?
+  m_Text: If you were the patient what would you prefer?
 --- !u!222 &556160372
 CanvasRenderer:
   m_ObjectHideFlags: 0

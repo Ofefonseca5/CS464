@@ -556,7 +556,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "For this experiment, there are 3 timed sceanarios to complete. For each
     sceanario, you will have 90 seconds to listen to the given sceanario and make
-    your final choice. \nAfter each sceanario, you will be prompted about your after-thoughts
+    your final choice. \nAfter each sceanario, you will be prompted on your after-thoughts
     about the sceanario that you just completed. \n\nBefore starting make sure that
     your volume is loud enough for you to listen to each sceanario & keep in mind
     that there is a running timer!"

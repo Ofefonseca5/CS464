@@ -1907,8 +1907,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'If you were to get a risky procedure with a 0% chance of survival or that
-    had extreme side effects that are worse than death would you take it?
+  m_Text: 'If you were offered to get a risky procedure with a 1% chance of survival,
+    would you take it?
 
 '
 --- !u!222 &2095870084
