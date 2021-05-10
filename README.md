@@ -66,7 +66,7 @@ To collect data on decision making choices we are using UnityWebRequest to Post 
 ![base](/Experiment-Results-Summary/Scenario-3-More-Time-Results.png)
 ##### If you were offered a risk procedure with a 1% chance of survival, would you do it?
 ![base](/Experiment-Results-Summary/Scenario-3-Risky Procedure.png)
-Note: The question was rephrased in the actual game. 
+###### Note: The question was rephrased in the actual game. 
 
 # Discussion
 
