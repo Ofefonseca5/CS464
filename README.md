@@ -25,6 +25,9 @@ To collect data on decision making choices we are using UnityWebRequest to Post 
 
 # Results
 
+#### Age
+![base](/Experiment-Results-Summary/Age.png)
+
 # Discussion
 
 # Conclusion
