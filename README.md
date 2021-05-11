@@ -5,7 +5,7 @@
 # External Links
 ### Research Paper (Overleaf Link): https://www.overleaf.com/read/fjwvnzjvtbbm
 ### Video Demo (Youtube): https://www.youtube.com/watch?v=X5OQx1t0yG8
-### Code Explaination (Youtbe): Coming Soon
+### Code Explaination (Youtube): https://youtu.be/U8unVhbuIBU
 ### Try It: https://play.unity.com/mg/other/webgl-builds-48719
 ### Project Website: None 
 
