@@ -80,7 +80,10 @@ We think that the sceanarios could've been better by making them more difficult 
 For our experiment, we had a total of 10 participants. The majority of our participants were between the ages of 18-24, Hispanic Latino or Spanish Origin, had a Bachelors Degree, and 100% of them chose to do this experiment in browser mode. 5 of the participants picked Male as their Gender & the remaining 5 participants picked Female as their Gender. Based on these results, we concluded that our pool of participants is not very diverse and that the results are skewed. 
 
 ### Sceanario 1
+For the first sceanario, 80% of participants decided to save the baby in a stroller instead of the unconcious man. We expected for participants to favor younger/healthy lives more. The unconcious man had a low survival rate while the baby was completely fine and healthy. The baby also has a longer life to live. However, for 50 % of the responses, the time pressure was the most influential factor to their decision. 20% would change their answer if they had more time to think about. These results support what we expected because humans aren't as quick to make a decision as a machine is. Therefore, we see a support for ethics research because this data could be taught to an aritifically intelligent system to make these decision automatically.  
+
 ### Sceanario 2
+For the second sceanario 
 ### Sceanario 3
 
 ### Things we missed
